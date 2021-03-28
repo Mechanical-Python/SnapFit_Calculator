@@ -26,7 +26,7 @@ Download files and run installer, choose destination directory of files and navi
 
 ### How to work with SnapFit Calculator?
 
-After running command `./SnapFitMainWindow` or exe file `SnapFitMainWindow.exe` you will be broght to option window to choose type of snap-fit hook to calculate forces and undercut.
+After running command `./SnapFitMainWindow` or exe file `SnapFitMainWindow.exe` you will be brought to option window to choose type of snap-fit hook to calculate forces and undercut.
  
 ![SnapFit Calculator Main Window](https://github.com/Azzazil/SnapFit_Calculator/blob/master/MainWindow.png)
 
