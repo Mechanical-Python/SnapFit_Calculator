@@ -1,4 +1,4 @@
-SnapFit Calculator
+SnapFit Calculator v1.1
 ========
 
 SnapFit Calculator is simple program to calculate undercut
