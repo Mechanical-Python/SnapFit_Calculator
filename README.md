@@ -15,13 +15,13 @@ Linux version:
 --------------
 Download files and navigate with terminal to:
 
-`cd /home/_user_directory_/Downloads/SnapFitCalculator_v1.0/dist/SnapFitMainWindow` and run command `./SnapFitMainWindow`.
+`cd /home/_user_directory_/Downloads/SnapFitCalculator_v1.1_Linux/SnapFitMainWindow` and run command `./SnapFitMainWindow`.
 
 Windows version:
 --------------
 Download files and run installer, choose destination directory of files and navigate to:
 
-`C:\_destionation_directory_\SnapFitCalculator_v1.0_Win\dist\SnapFitMainWindow` and run `SnapFitMainWindow.exe`.
+`C:\_destionation_directory_\SnapFitCalculator_v1.1_Win\SnapFitMainWindow` and run `SnapFitMainWindow.exe`.
 
 
 ### How to work with SnapFit Calculator?
