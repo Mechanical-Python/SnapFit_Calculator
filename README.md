@@ -13,13 +13,13 @@ Linux version:
 --------------
 Download files and navigate with terminal to:
 
-`cd /home/_user_directory_/Downloads/SnapFitCalculator_v2.0_Linux/SnapJointCalculator` and run command `./SnapFitMainWindow`.
+`cd /home/_user_directory_/Downloads/SnapJointCalculator_v2.0_Linux/SnapJointCalculator` and run command `./SnapFitMainWindow`.
 
 Windows version:
 --------------
 Download files and run installer, choose destination directory of files and navigate to:
 
-`C:\_destination_directory_\SnapFitCalculator_v2.0_Win\SnapJointCalculator` and run `SnapJointCalculator.exe`.
+`C:\_destination_directory_\SnapJointCalculator_v2.0_Win\SnapJointCalculator` and run `SnapJointCalculator.exe`.
 
 
 ### How to work with SnapJointCalculator?
