@@ -26,11 +26,11 @@ Download files and run installer, choose destination directory of files and navi
 
 After running command `./SnapJointCalculator` or exe file `SnapJointCalculator.exe` you will be brought to option window to choose desired type of joint to calculate forces and undercut.
  
-![Snap Joint Calculator Main Window](https://github.com/Azzazil/SnapJointCalculator/blob/master/Snap Joint Calculator Main Window.png)
+![Snap Joint Calculator Main Window]()
 
 If you choose cantilever joint option and proceed to the next window with `Next` button.
 
-![Cantilever Joint](https://github.com/Azzazil/SnapJointCalculator/blob/master/Cantilever Joint.png)
+![Cantilever Joint](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Cantilever_Joint.png)
 
 You will be brought to anoter option windows to choose exact shape of cantilever joint.
 
@@ -46,11 +46,11 @@ By entering values for `Wall thickness`,`Lenght` and `Strain` this values will a
 
 By clicking "Back" button double time you will be brought to main option window, by choosing annular joint and press on button "Next" you will calculate parameters and forces of annular joint.  
 
-![Annular Joint](https://github.com/Azzazil/SnapJointCalculator/blob/master/Annular_Joint.png)
+![Annular Joint](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Annular_Joint.png)
 
 By going to main option window and choosing torsional joint you will be able to calculate allowed torsional angle and torque value. 
 
-![Torsional Joint](https://github.com/Azzazil/SnapJointCalculator/blob/master/Torsional_Joint.png)
+![Torsional Joint](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Torsional_Joint.png)
 
 Example
 -------
