@@ -44,15 +44,15 @@ Notes:
 
 By entering values for `Wall thickness`,`Lenght` and `Strain` this values will appear in box `Calculate deflection force`.
 
-By clicking "Back" button double time you will be brought to main option window, by choosing annular joint and press on button "Next" you will calculate parameters and forces of annular joint.  
+By clicking `Back` button double time you will be brought to main option window, by choosing annular joint and press on button `Next` you will calculate parameters and forces of annular joint.
 
 ![Annular Joint](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Annular_Joint.png)
 
-By going to main option window and choosing torsional joint you will be able to calculate allowed torsional angle and torque value. 
+By going to main option window and choosing torsional joint you will be able to calculate allowed torsion angle and torque value. 
 
 ![Torsional Joint](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Torsional_Joint.png)
 
 Example
 -------
 
-![Snap Joint Calculator Example](https://github.com/Azzazil/SnapJointCalculator/blob/master/Example.png)
+![Snap Joint Calculator Example](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Example_Torsional.png)
