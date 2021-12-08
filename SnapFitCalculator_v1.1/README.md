@@ -32,7 +32,7 @@ After running command `./SnapFitMainWindow` or exe file `SnapFitMainWindow.exe` 
 
 Choose desired option and proceed to next window with `Next` button.
 
-![SnapFit Calculator SnapFit Calculator](https://github.com/Azzazil/SnapFit_Calculator/SnapFitCalculator_v1.1//blob/master/SnapFitCalculator.png)
+![SnapFit Calculator SnapFit Calculator](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/SnapFitCalculator_v1.1/SnapFitCalculator.png)
 
 In box `Determine parameters of snapfit hook` it is mandatory to have at least 3 parameters filled. The one that is not filled in his value will be calculated by pressing on button `Calculate`. 
 
