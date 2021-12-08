@@ -47,4 +47,4 @@ By entering values for `Wall thickness`,`Lenght` and `Strain` this values will a
 Example
 -------
 
-![SnapFit Calculator Example](https://github.com/Azzazil/SnapFit_Calculator/SnapFitCalculator_v1.1//blob/master/Example.png)
+![SnapFit Calculator Example](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/SnapFitCalculator_v1.1/Example.png)
