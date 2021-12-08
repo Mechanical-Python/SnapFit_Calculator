@@ -28,11 +28,11 @@ Download files and run installer, choose destination directory of files and navi
 
 After running command `./SnapFitMainWindow` or exe file `SnapFitMainWindow.exe` you will be brought to option window to choose type of snap-fit hook to calculate forces and undercut.
  
-![SnapFit Calculator Main Window](https://github.com/Azzazil/SnapFit_Calculator/blob/master/MainWindow.png)
+![SnapFit Calculator Main Window](https://github.com/Azzazil/SnapFit_Calculator/SnapFitCalculator_v1.1//blob/master/MainWindow.png)
 
 Choose desired option and proceed to next window with `Next` button.
 
-![SnapFit Calculator SnapFit Calculator](https://github.com/Azzazil/SnapFit_Calculator/blob/master/SnapFitCalculator.png)
+![SnapFit Calculator SnapFit Calculator](https://github.com/Azzazil/SnapFit_Calculator/SnapFitCalculator_v1.1//blob/master/SnapFitCalculator.png)
 
 In box `Determine parameters of snapfit hook` it is mandatory to have at least 3 parameters filled. The one that is not filled in his value will be calculated by pressing on button `Calculate`. 
 
@@ -47,4 +47,4 @@ By entering values for `Wall thickness`,`Lenght` and `Strain` this values will a
 Example
 -------
 
-![SnapFit Calculator Example](https://github.com/Azzazil/SnapFit_Calculator/blob/master/Example.png)
+![SnapFit Calculator Example](https://github.com/Azzazil/SnapFit_Calculator/SnapFitCalculator_v1.1//blob/master/Example.png)
