@@ -26,7 +26,7 @@ Download files and run installer, choose destination directory of files and navi
 
 After running command `./SnapJointCalculator` or exe file `SnapJointCalculator.exe` you will be brought to option window to choose desired type of joint to calculate forces and undercut.
  
-![Snap Joint Calculator Main Window]()
+![Snap Joint Calculator Main Window](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Snap_Joint_Calculator_Main_Window.png)
 
 If you choose cantilever joint option and proceed to the next window with `Next` button.
 
@@ -34,7 +34,7 @@ If you choose cantilever joint option and proceed to the next window with `Next`
 
 You will be brought to anoter option windows to choose exact shape of cantilever joint.
 
-![Cantilever Joint type A](https://github.com/Azzazil/SnapJointCalculator/blob/master/Cantilever_Joint_A1.png)
+![Cantilever Joint type A](https://github.com/Mechanical-Python/SnapFit_Calculator/blob/master/Cantilever_Joint_A1.png)
 
 In box `Determine parameters of cantilever hook` it is mandatory to have at least 3 parameters filled. The one that is not filled in his value will be calculated by pressing on button `Calculate`. 
 
